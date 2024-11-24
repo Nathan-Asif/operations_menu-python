@@ -2,8 +2,7 @@
 
 A Python program offering a user-friendly operations menu for performing various computational tasks. The program provides a menu-driven interface to help users navigate and execute the desired operations easily.
 
-Author:
-Nathan Asif
+## Author: Nathan Asif
 
 ## Features
 
