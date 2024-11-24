@@ -24,3 +24,30 @@ A Python program offering a user-friendly operations menu for performing various
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nathan-Asif/operations_menu-python.git
+
+2. Navigate to the project directory:
+
+   ```bash
+      Copy code
+      cd operations_menu-python
+   ```
+3. Run the program:
+   ```bash
+   Copy code
+   python operations_menu.py
+   ```
+4. Follow the on-screen instructions to select the desired operation and input the required values.
+
+Requirements
+Python 3.x installed on your machine.
+Code Structure
+The program utilizes a menu-driven structure with the following options:
+- Choice 1: Calculator
+- Choice 2: Area of Circle
+- Choice 3: Temperature Conversion
+- Choice 4: Even or Odd Check
+- Choice 5: Factorial Calculation
+Each operation is modularized and loops back to the main menu for a seamless user experience.
+
+Author
+Nathan Asif
