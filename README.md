@@ -2,6 +2,9 @@
 
 A Python program offering a user-friendly operations menu for performing various computational tasks. The program provides a menu-driven interface to help users navigate and execute the desired operations easily.
 
+Author:
+Nathan Asif
+
 ## Features
 
 1. **Calculator**  
@@ -46,6 +49,3 @@ The program utilizes a menu-driven structure with the following options:
 - Choice 4: Even or Odd Check
 - Choice 5: Factorial Calculation
 Each operation is modularized and loops back to the main menu for a seamless user experience.
-
-Author
-Nathan Asif
