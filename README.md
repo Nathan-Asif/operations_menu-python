@@ -28,12 +28,10 @@ A Python program offering a user-friendly operations menu for performing various
 2. Navigate to the project directory:
 
    ```bash
-      Copy code
       cd operations_menu-python
    ```
 3. Run the program:
    ```bash
-   Copy code
    python operations_menu.py
    ```
 4. Follow the on-screen instructions to select the desired operation and input the required values.
